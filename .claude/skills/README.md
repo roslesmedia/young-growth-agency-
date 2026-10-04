@@ -1,4 +1,23 @@
-# Animated 3D site skills (50)
+# Skills (83)
+
+Two sets: 33 creator digital-product skills (start with **creator-product-pipeline**) and 50 animated 3D website skills (start with **award-site-architecture**).
+
+## Creator digital products (33)
+
+| Stage | Skills |
+|---|---|
+| Pipeline | creator-product-pipeline |
+| Creator | creator-discovery-and-fit-scorecard, creator-partnership-proposal, creator-audience-research, creator-brand-kit-extraction, creator-voice-guide |
+| Product strategy | digital-product-ideation-validation, lead-magnet-and-waitlist, offer-design-and-pricing, product-research-and-outlining |
+| Creation | ebook-pdf-production, workbook-planner-printables, online-course-creation, template-products, product-mockups, product-quality-review, html-render-pdf-png |
+| Sales | sales-page-copy-and-build, storefront-checkout-delivery |
+| Launch | creator-product-launch-playbook, launch-social-content-plan, short-form-video-scripts, social-carousel-design, hooks-and-headlines, direct-response-copywriting, instagram-dm-automation-funnels, launch-email-sequences, ugc-and-testimonials-social-proof, paid-ads-for-digital-products |
+| After launch | launch-metrics-and-reporting, evergreen-funnel-and-post-launch, content-repurposing-engine |
+| Compliance | legal-and-compliance-basics |
+
+No prefab design templates: designs are made per creator, niche and product.
+
+## Animated 3D sites (50)
 
 Claude Code skills for building premium animated / 3D / scroll-heavy marketing sites. Each folder has a `SKILL.md` that Claude loads automatically when the task matches. Start with **award-site-architecture**: it maps each page section to the skills below.
 
